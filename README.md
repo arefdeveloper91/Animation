@@ -18,7 +18,7 @@ Conhecimento básico de Swift e SwiftUI (opcional, mas recomendado).
 Instalação
 
 Clone o repositório:
-git clone https://github.com/seu-usuario/dice-roller-app.git
+git clone https://github.com/arefdeveloper91/Animation
 
 
 Abra o projeto no Xcode:
